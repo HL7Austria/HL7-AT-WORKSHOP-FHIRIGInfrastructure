@@ -1,0 +1,1 @@
+<span style="border-radius: 3px;background-color:red; padding:2px 6px 2px 6px;color:#FFF;font-family: Panic Sans, Consolas, monospace;">!</span> Here we can place notes about a profile.
