@@ -81,4 +81,4 @@ jobs:
         external_repository: HL7Austria/hl7austria.github.io
         publish_branch: pages
         publish_dir: ./output
-        destination_dir: ./r4-core-${{ steps.extract_branch.outputs.branch }}
+        destination_dir: ./ig-infrastructure-${{ steps.extract_branch.outputs.branch }}
